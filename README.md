@@ -2,6 +2,7 @@
 **Author:** James McDonald  
 **Version:** Java JDK 21
 
+## Final Module Grade: 92%
 ## Description
 This Java application is designed for sentiment analysis of tweets using virtual threads. Developed as part of the H.Dip. in Science (Software Development) - Software Design & Data Structures module, the application processes a set of tweets to determine if the overall attitude is positive, negative, or neutral. It uses a suite of lexicons and virtual threading for efficient and accurate sentiment analysis.
 
